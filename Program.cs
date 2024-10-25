@@ -283,6 +283,8 @@ public class User
 }
 */
 
+// ----------------------------------------------------- Segunda version del proyecto --------------
+
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -416,3 +418,5 @@ internal class UserLogin
     public required string Password { get; set; }
 }
 
+
+// ----------------------------------------------------- COMING SOON --------------
